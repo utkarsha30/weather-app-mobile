@@ -1,6 +1,6 @@
 # WeatherApp
 
-A new Flutter project.
+A new Flutter project.This project was build to better understand concepts of flutter flow through implementation of flutter flow app to show weather of various cities.
 
 ## Getting Started
 
